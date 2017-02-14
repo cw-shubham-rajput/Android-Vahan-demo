@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_7c00849a4730bda0d015678311e764eb9c4f2cd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_0f510b18cc113413f56d8be5ab63ee9ae569f5e8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_0f510b18cc113413f56d8be5ab63ee9ae569f5e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_b6978400dcbbf65c4d17251cc8967a243c75d4e8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_cee8ab9433c2408eec3a6244999b0a5735d436fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_350aa69fd534c76cac70de8449c8006f991e8764\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_cee8ab9433c2408eec3a6244999b0a5735d436fa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_905fb2cda1bb6f68e8a897eba04d4af4575f3922\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_350aa69fd534c76cac70de8449c8006f991e8764.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_c4a90ee75b3266850dc74b35da128028bd790469.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_5b4200c29056d5d58c261ca671b70e919edc994c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb97c52d58d366594438baeaaf6c04880fe8c9a1">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a920b50dab1271bec362822c4afcf5eef3f4c1ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_c4a90ee75b3266850dc74b35da128028bd790469\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_485d670864d72e152fd28b261061112c6fc285a1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_9d4d47cc6d3476dd0229afe4a409a95b86c285f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_485d670864d72e152fd28b261061112c6fc285a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_9d4d47cc6d3476dd0229afe4a409a95b86c285f9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_5b4200c29056d5d58c261ca671b70e919edc994c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_905fb2cda1bb6f68e8a897eba04d4af4575f3922.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_8253c0b13055cda6b1b85b92a237f208181ba652\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_8253c0b13055cda6b1b85b92a237f208181ba652.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b5197ef66f4b0481bf895603b09a3162ee44dccb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b5197ef66f4b0481bf895603b09a3162ee44dccb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0950299d6608643a6fddd1e5ff1aa7e754e426d6">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_19ae65ec51e6b76596d5c42e195984dd9d202183\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_e6631bbdb59df04aa27f673e49db2ee205c8c837\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_e6631bbdb59df04aa27f673e49db2ee205c8c837.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_b6978400dcbbf65c4d17251cc8967a243c75d4e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4055a29ccb0e059ede31c00839616ab884d2acb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4055a29ccb0e059ede31c00839616ab884d2acb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_70679936cb0efbed222280c60fa331fdee73c23a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_70679936cb0efbed222280c60fa331fdee73c23a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shubh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\Vahan_demo\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_7c00849a4730bda0d015678311e764eb9c4f2cd9.jar" />
+    </item>
+
+</items>
